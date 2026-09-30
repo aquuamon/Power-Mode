@@ -5,11 +5,12 @@ Very easy build:
 - start powercfg.cpl bat command turned into .exe file with a free icon from https://icons8.com nothing more.
 
 -----------
-DONATION
----
+
+## Donation
+
 Feel free to contribute to this project by leaving a donation at:
 
-https://ko-fi.com/aquamon
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/aquamon)
 
 Thanks!
 
