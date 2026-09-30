@@ -1,4 +1,5 @@
-# Power-Mode
+# Power-Mode ⚡
+
 Swap power modes on your PC with this simple command. Works well to pin on taskbar and start menu.
 
 Very easy build:
@@ -12,4 +13,6 @@ Feel free to contribute to this project by leaving a donation at:
 
 Thanks!
 
------------
+---
+
+**Use at your own responsibility.**
